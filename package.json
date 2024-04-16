@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.4",
+    "pg": "^8.11.5"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "name": "gobikerideserver",
+  "version": "1.0.0",
+  "main": "database.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
